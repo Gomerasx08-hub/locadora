@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^5.2.1",
+    "node": "^25.7.0",
+    "nodemon": "^3.1.14"
+  },
+  "name": "locadora",
+  "version": "1.0.0",
+  "description": "página de locadora de veículos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gutoffline/locadora.git"
+  },
+  "keywords": [],
+  "author": "gomeraxyz",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gutoffline/locadora/issues"
+  },
+  "homepage": "https://github.com/gutoffline/locadora#readme"
+}
